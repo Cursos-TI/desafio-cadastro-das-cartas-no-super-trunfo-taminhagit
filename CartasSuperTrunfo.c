@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(){
     printf("Desafio super trunfo cartas!\n");
 
     int Carta = 1;
